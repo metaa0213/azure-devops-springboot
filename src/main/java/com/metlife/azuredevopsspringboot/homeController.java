@@ -10,6 +10,6 @@ public class homeController
 {
     @RequestMapping(value = "/home", method = RequestMethod.GET)
     public String index(){
-        return "Hello world with Spring Boot (hihi)";
+        return "Hello world with Spring Boot (change azure repo)";
     }
 }
